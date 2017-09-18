@@ -1,0 +1,53 @@
+body, html {
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: auto;
+}
+
+header {
+	background-color: yellow;
+	height: 100px;
+	margin: 1% 3%;
+}
+
+#left {
+	background-color: purple;
+	float: left;
+	height: 250px;
+	width: 45%;
+	margin: 1%;
+	margin-left: 3%;
+}
+
+#right {
+	background-color: red;
+	float: right;
+	height: 250px;
+	width: 45%;
+	margin: 1%;
+	margin-right: 3%
+}
+
+.bottom {
+	background-color: yellow;
+	float: right;
+	height: 100px;
+	width: 30%;
+	margin: 1%;
+}
+
+#b1 {
+	margin: 1% 3% 1% 1%;
+}
+
+#b3 {
+	margin: 1% 1% 1% 3%;
+}
+
+footer {
+	background-color: blue;
+	clear: both;
+	height: 100px;
+	margin: 3%;
+}

@@ -1,0 +1,76 @@
+body, html {
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: auto;
+}
+
+header {
+	background-color: yellow;
+	float: left;
+	height: 100px;
+	width: 20%;
+	margin: 1% 3%;
+}
+
+.nav {
+	background-color: black;
+	float: right;
+	height: 50px;
+	width: 10%;
+	margin: 3% 1%;
+}
+
+ #n1 {
+ 	margin-right: 3%;
+ }
+
+#LB {
+	background-color: pink;
+	float: left;
+	margin: 1% 1% 1% 3%;
+	height: 535px;
+	width: 14%;
+}
+
+#TB {
+	background-color: green;
+	float: right;
+	margin: 1% 3% 1% 1%;
+	height: 100px;
+	width: 78%;
+}
+#RB {
+	background-color: grey;
+	float: right;
+	margin: 1% 3% 1% 1%;
+	height: 300px;
+	width: 18%;
+}
+
+#body {
+	background-color: blue;
+	float: right;
+	margin: 1%;
+	height: 300px;
+	width: 58%;
+}
+
+.bottom-nav {
+	background-color: black;
+	float: right;
+	margin: 1%;
+	height: 100px;
+	width: 18%;
+}
+
+#bn1 {
+	margin-right: 3%;
+}
+
+ footer {
+	background-color: blue;
+	clear: both;
+	height: 100px;
+	margin: 3%;
+}
